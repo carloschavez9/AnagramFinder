@@ -1,0 +1,7 @@
+C:\code\NET\AnagramFinder\AnagramFinder\bin\Debug\AnagramFinder.exe.config
+C:\code\NET\AnagramFinder\AnagramFinder\bin\Debug\AnagramFinder.exe
+C:\code\NET\AnagramFinder\AnagramFinder\bin\Debug\AnagramFinder.pdb
+C:\code\NET\AnagramFinder\AnagramFinder\obj\Debug\AnagramFinder.csprojResolveAssemblyReference.cache
+C:\code\NET\AnagramFinder\AnagramFinder\obj\Debug\AnagramFinder.csproj.CoreCompileInputs.cache
+C:\code\NET\AnagramFinder\AnagramFinder\obj\Debug\AnagramFinder.exe
+C:\code\NET\AnagramFinder\AnagramFinder\obj\Debug\AnagramFinder.pdb
